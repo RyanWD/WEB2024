@@ -44,3 +44,8 @@ input[type="color"] {
   font-size: 2rem;
   text-align: center;
 }
+
+.box {
+  border: 3px solid;
+  padding: 25px;
+}
